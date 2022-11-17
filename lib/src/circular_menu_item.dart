@@ -52,8 +52,6 @@ class CircularMenuItem extends StatelessWidget {
 
   Widget _buildCircularMenuItem(BuildContext context) {
     return Container(
-      width: 100,
-      height: 100,
       margin: EdgeInsets.all(margin),
       decoration: BoxDecoration(
         color: Colors.transparent,
